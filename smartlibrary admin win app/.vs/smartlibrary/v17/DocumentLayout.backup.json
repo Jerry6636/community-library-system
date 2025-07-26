@@ -1,12 +1,87 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\library management system gor community use\\smartlibrary admin win app\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF0DE5-4AD5-4D75-BB9C-F7403FEF3B7D}|smartlibrary.csproj|c:\\users\\singh\\onedrive - microsoft office\\desktop\\community library system\\smartlibrary admin win app\\view\\dashboaed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF0DE5-4AD5-4D75-BB9C-F7403FEF3B7D}|smartlibrary.csproj|solutionrelative:view\\dashboaed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF0DE5-4AD5-4D75-BB9C-F7403FEF3B7D}|smartlibrary.csproj|c:\\users\\singh\\onedrive - microsoft office\\desktop\\community library system\\smartlibrary admin win app\\view\\dashboaed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38BF0DE5-4AD5-4D75-BB9C-F7403FEF3B7D}|smartlibrary.csproj|solutionrelative:view\\dashboaed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF0DE5-4AD5-4D75-BB9C-F7403FEF3B7D}|smartlibrary.csproj|c:\\users\\singh\\onedrive - microsoft office\\desktop\\community library system\\smartlibrary admin win app\\view\\dashboaed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF0DE5-4AD5-4D75-BB9C-F7403FEF3B7D}|smartlibrary.csproj|solutionrelative:view\\dashboaed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BF0DE5-4AD5-4D75-BB9C-F7403FEF3B7D}|smartlibrary.csproj|c:\\users\\singh\\onedrive - microsoft office\\desktop\\community library system\\smartlibrary admin win app\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BF0DE5-4AD5-4D75-BB9C-F7403FEF3B7D}|smartlibrary.csproj|solutionrelative:mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboaed.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\view\\Dashboaed.Designer.cs",
+              "RelativeDocumentMoniker": "view\\Dashboaed.Designer.cs",
+              "ToolTip": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\view\\Dashboaed.Designer.cs",
+              "RelativeToolTip": "view\\Dashboaed.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:48:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboaed.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\view\\Dashboaed.cs",
+              "RelativeDocumentMoniker": "view\\Dashboaed.cs",
+              "ToolTip": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\view\\Dashboaed.cs",
+              "RelativeToolTip": "view\\Dashboaed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:48:03.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboaed.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\view\\Dashboaed.cs",
+              "RelativeDocumentMoniker": "view\\Dashboaed.cs",
+              "ToolTip": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\view\\Dashboaed.cs [Design]",
+              "RelativeToolTip": "view\\Dashboaed.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:48:01.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\MainClass.cs",
+              "RelativeDocumentMoniker": "MainClass.cs",
+              "ToolTip": "C:\\Users\\singh\\OneDrive - Microsoft Office\\Desktop\\community library system\\smartlibrary admin win app\\MainClass.cs",
+              "RelativeToolTip": "MainClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:47:32.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
